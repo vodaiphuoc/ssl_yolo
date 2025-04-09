@@ -43,9 +43,9 @@ Loss:
 
 Dataset:
   data_name: 'custom'
-  train: ../datasets/custom/train/images  # 118287 images
-  val: ../datasets/custom/val/images  # 5000 images
-  test: ../datasets/custom/test/images # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794^
+  train: ./datasets/custom/train/images  # 118287 images
+  val: ./datasets/custom/val/images  # 5000 images
+  test: ./datasets/custom/test/images # 20288 of 40670 images, submit to https://competitions.codalab.org/competitions/20794^
   # target: data/custom_unlabeled.txt
   nc: 1  # number of classes
   np: 0 #number of keypoints
