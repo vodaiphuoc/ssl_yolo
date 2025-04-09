@@ -118,6 +118,7 @@ data/
 .DS_Store
 datasets/custom/
 efficientteacher/assets/
+yolov5_ssod/
 
 # custom
 *.pkl
